@@ -9,8 +9,8 @@ API version: 1.0.0
 package binancederivativestradingusdsfutureswebsocketapi
 
 import (
+	"github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures common/common"
 	"github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures/src/websocketapi/models"
-	"github.com/binance/binance-connector-go/common/common"
 )
 
 // AccountAPIService AccountAPI Service

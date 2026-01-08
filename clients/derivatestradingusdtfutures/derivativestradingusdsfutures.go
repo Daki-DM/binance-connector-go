@@ -1,10 +1,10 @@
 package derivativestradingusdsfutures
 
 import (
+	"github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures common/common"
 	BinanceDerivativesTradingUsdsFuturesRestApi "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures/src/restapi"
 	BinanceDerivativesTradingUsdsFuturesWebsocketApi "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures/src/websocketapi"
 	BinanceDerivativesTradingUsdsFuturesWebsocketStreams "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures/src/websocketstreams"
-	"github.com/binance/binance-connector-go/common/common"
 )
 
 type BinanceDerivativesTradingUsdsFuturesClient struct {

@@ -1,5 +1,4 @@
-module 	"github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
-
+module github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures
 
 go 1.24.0
 
