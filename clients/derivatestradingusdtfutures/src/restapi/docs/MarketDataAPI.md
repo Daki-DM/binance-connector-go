@@ -58,7 +58,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -126,7 +126,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -204,7 +204,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -269,7 +269,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -337,7 +337,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -413,7 +413,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -491,7 +491,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -556,7 +556,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -630,7 +630,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -695,7 +695,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -771,7 +771,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -847,7 +847,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -923,7 +923,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -991,7 +991,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1067,7 +1067,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1135,7 +1135,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1207,7 +1207,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1275,7 +1275,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1351,7 +1351,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1421,7 +1421,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1497,7 +1497,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1565,7 +1565,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1633,7 +1633,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1701,7 +1701,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1771,7 +1771,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1841,7 +1841,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1909,7 +1909,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -1977,7 +1977,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -2045,7 +2045,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -2121,7 +2121,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -2180,7 +2180,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -2248,7 +2248,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -2324,7 +2324,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
@@ -2400,7 +2400,7 @@ import (
 	"log"
 	"os"
 
-	models "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	models "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 

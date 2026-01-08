@@ -12,7 +12,7 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketstreams/models"
+	"github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures/src/websocketstreams/models"
 	"github.com/binance/binance-connector-go/common/common"
 )
 

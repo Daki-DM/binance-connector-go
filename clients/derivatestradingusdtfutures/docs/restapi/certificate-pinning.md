@@ -16,7 +16,7 @@ import (
 	"net/http"
 	"time"
 
-	client "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures"
+	client "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures"
 	"github.com/binance/binance-connector-go/common/common"
 )
 

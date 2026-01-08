@@ -1,9 +1,9 @@
 package derivativestradingusdsfutures
 
 import (
-	BinanceDerivativesTradingUsdsFuturesRestApi "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/restapi"
-	BinanceDerivativesTradingUsdsFuturesWebsocketApi "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketapi"
-	BinanceDerivativesTradingUsdsFuturesWebsocketStreams "github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/websocketstreams"
+	BinanceDerivativesTradingUsdsFuturesRestApi "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures/src/restapi"
+	BinanceDerivativesTradingUsdsFuturesWebsocketApi "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures/src/websocketapi"
+	BinanceDerivativesTradingUsdsFuturesWebsocketStreams "github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures/src/websocketstreams"
 	"github.com/binance/binance-connector-go/common/common"
 )
 

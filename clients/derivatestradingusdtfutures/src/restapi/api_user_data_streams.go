@@ -13,7 +13,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/binance/binance-connector-go/clients/derivativestradingusdsfutures/src/restapi/models"
+	"github.com/Daki-DM/binance-connector-go/clients/derivatestradingusdtfutures/src/restapi/models"
 	"github.com/binance/binance-connector-go/common/common"
 )
 
